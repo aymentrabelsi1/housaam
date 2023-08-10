@@ -1,0 +1,17 @@
+body{height: 100vh;
+display: flex;justify-content: center;align-items: center;
+}
+
+
+#ho{justify-content: center;display: flex;
+    align-items: center;border-radius: 10px;
+    width: 400px;gap: 50px;
+    height: 400px;background-color: grey;
+}
+
+
+#ho i{font-size: 60px;}
+
+#ho a{text-decoration: none
+    ;}
+#ho .fa-whatsapp{color: green;}
